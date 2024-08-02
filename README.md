@@ -1,12 +1,32 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996124110?e=2147483647&v=beta&t=y0N9ZCC9USXV2Zpade_jpLirGBA_paYRscwd-vhhQ9Q)
-<h1 align="center">Hi 👋, I'm Asneh Raj</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajasneh&label=Profile%20views&color=0e75b6&style=flat" alt="rajasneh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rajasneh28" target="blank"><img src="https://img.shields.io/twitter/follow/rajasneh28?logo=twitter&style=for-the-badge" alt="rajasneh28" /></a> </p>
 ## Hi there 👋
+# Sumit Kumar Bose
+
+## 👋 Hello, I'm Sumit!
+
+I'm currently pursuing a Bachelor's in Computer Applications. My primary skills and interests lie in data structures and algorithms (DSA), and I'm proficient in C++. I also have a basic understanding of Python and C, but C++ is where I feel most comfortable.
+
+### 🚀 What I'm Learning
+
+- Currently diving into JavaScript to enhance my backend development skills.
+- Building desktop assistants with speech recognition and task automation.
+
+### 🔧 Technologies & Tools
+
+- **Languages:** C++, Python, C
+- **Web Development:** JavaScript (currently learning)
+- **Other:** Data Structures and Algorithms
+
+### 📚 Projects & Interests
+
+- **Data Structures and Algorithms:** I enjoy solving complex problems and optimizing solutions.
+- **Web Development:** Currently working on backend development projects.
+
+### 🌟 Fun Fact
+
+When I'm not coding, you might find me exploring new technologies or reading about the latest trends in AI and web development. I'm passionate about creating solutions that make life easier and more enjoyable.
+
+Feel free to check out my repositories and connect with me!
 
 <!--
 **Sumitbose5/Sumitbose5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
