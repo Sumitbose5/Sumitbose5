@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Sumit!
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
+![Profile Banner](https://user-images.githubusercontent.com/59104550/131690022-f8df7a5f-3d59-44a6-8fd9-b790e8d647f7.png)
 
 I'm currently pursuing a Bachelor's in Computer Applications. My primary skills and interests lie in data structures and algorithms (DSA), and I'm proficient in C++. I also have a basic understanding of Python and C, but C++ is where I feel most comfortable.
 
