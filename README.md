@@ -8,15 +8,15 @@ I'm currently pursuing a Bachelor's in Computer Applications. My primary skills 
 
 ### 🚀 What I'm Learning
 
-- ![JavaScript Logo](https://via.placeholder.com/20x20.png?text=JS) Currently diving into JavaScript to enhance my backend development skills.
-- ![Assistant Logo](https://via.placeholder.com/20x20.png?text=AI) Building desktop assistants with speech recognition and task automation.
+- ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) Currently diving into JavaScript to enhance my backend development skills.
+- ![Assistant Logo](https://img.icons8.com/color/48/000000/robot-2.png) Building desktop assistants with speech recognition and task automation.
 
 ### 🔧 Technologies & Tools
 
-![C++ Logo](https://via.placeholder.com/50x50.png?text=C++)
-![Python Logo](https://via.placeholder.com/50x50.png?text=Python)
-![C Logo](https://via.placeholder.com/50x50.png?text=C)
-![JavaScript Logo](https://via.placeholder.com/50x50.png?text=JS)
+![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+![C Logo](https://img.icons8.com/color/48/000000/c-programming.png)
+![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
 
 - **Languages:** C++, Python, C
 - **Web Development:** JavaScript (currently learning)
@@ -24,20 +24,19 @@ I'm currently pursuing a Bachelor's in Computer Applications. My primary skills 
 
 ### 📚 Projects & Interests
 
-![DSA](https://via.placeholder.com/100x100.png?text=DSA)
-![Web Development](https://via.placeholder.com/100x100.png?text=Web+Development)
+![DSA](https://img.icons8.com/color/48/000000/flow-chart.png)
+![Web Development](https://img.icons8.com/color/48/000000/web-design.png)
 
 - **Data Structures and Algorithms:** I enjoy solving complex problems and optimizing solutions.
 - **Web Development:** Currently working on backend development projects.
 
 ### 🌟 Fun Fact
 
-![Fun Fact](https://via.placeholder.com/100x100.png?text=Fun+Fact)
+![Fun Fact](https://img.icons8.com/color/48/000000/smiling.png)
 
 When I'm not coding, you might find me exploring new technologies or reading about the latest trends in AI and web development. I'm passionate about creating solutions that make life easier and more enjoyable.
 
 Feel free to check out my repositories and connect with me!
-
 
 <!--
 **Sumitbose5/Sumitbose5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
