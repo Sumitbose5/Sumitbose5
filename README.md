@@ -2,7 +2,6 @@
 
 ## 👋 Hello, I'm Sumit!
 
-![Profile Banner](https://drive.google.com/uc?export=view&id=16EiK15_1X-6yotp-m8CRBP4pWi44kCxC)
 
 I'm currently pursuing a Bachelor's in Computer Applications and I am an aspiring software engineer. My primary skills and interests lie in data structures and algorithms (DSA), and I'm proficient in C++. I also have a basic understanding of Python and C, but C++ is where I feel most comfortable.
 
@@ -32,7 +31,6 @@ I'm currently pursuing a Bachelor's in Computer Applications and I am an aspirin
 
 ### 🌟 Fun Fact
 
-![Fun Fact](https://img.icons8.com/color/48/000000/smiling.png)
 
 When I'm not coding, you might find me exploring new technologies or reading about the latest trends in AI and web development. I'm passionate about creating solutions that make life easier and more enjoyable.
 
