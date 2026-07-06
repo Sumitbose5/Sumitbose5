@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Bose</h1>
 <h3 align="center">Full-Stack Developer • Exploring AI ⭐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbose5&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbose5" /> </p>
-
 - 🌱 I’m currently learning **Docker, AWS**
 
 - 👨‍💻 All of my projects are available at [https://sumitbose.vercel.app](https://sumitbose.vercel.app)
